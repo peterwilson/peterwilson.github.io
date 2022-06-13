@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://peterwilson.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: inanepenguin
 github_username:  peterwilson
-linkedin_url: https://www.linkedin.com/in/peter-wilson-310a564b/
+linkedin_username: peter-wilson-310a564b
 show_excerpts: true
 
 # Build settings
