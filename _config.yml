@@ -27,6 +27,7 @@ url: "https://peterwilson.io" # the base hostname & protocol for your site, e.g.
 twitter_username: inanepenguin
 github_username:  peterwilson
 linkedin_url: https://www.linkedin.com/in/peter-wilson-310a564b/
+show_excerpts: true
 
 # Build settings
 theme: minima
