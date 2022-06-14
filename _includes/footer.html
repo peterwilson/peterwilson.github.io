@@ -22,7 +22,11 @@
       </div>
 
       <div class="footer-col footer-col-2">
-        {%- include social.html -%}
+        {%- if site.use_generic_social_media_links -%}
+          {%- include social_without_usernames.html -%}
+        {%- else -%}
+          {%- include social_usernames.html -%}
+        {%- endif -%}
       </div>
 
       <div class="footer-col footer-col-3">

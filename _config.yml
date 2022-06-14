@@ -28,6 +28,7 @@ twitter_username: inanepenguin
 github_username:  peterwilson
 linkedin_username: peter-wilson-310a564b
 show_excerpts: true
+use_generic_social_media_links: true
 
 # Build settings
 theme: minima
